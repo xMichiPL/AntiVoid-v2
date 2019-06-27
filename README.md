@@ -1,2 +1,8 @@
-# AntiVoid-v2
-PocketMine-MP plugin for your MCPE Server!
+<p align="center">
+       <a href="">
+	         🗣 Credits:
+
+**Author & Owner**: [Lover_BOY636](http://github.com/BruhItzLover636YT)<br>
+**From**: Poland
+
+
